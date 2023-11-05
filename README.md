@@ -41,6 +41,8 @@ These tools are particularly useful for Android reverse engineering:
 - **HTTPDebugger:** Best for Windows users.
 - **Fiddler/Fiddler Everywhere:** Ideal for Linux users.
 - **HTTPToolkit:** Great for Android debugging.
+- **Burp Suite:**  A popular web vulnerability scanner and proxy tool used for security testing.
+
 
 ### Games:
 - **UnityExplorer:** Can be loaded into Unity games to explore their contents at runtime.
